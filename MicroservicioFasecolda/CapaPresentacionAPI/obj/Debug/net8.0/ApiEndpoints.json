@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CapaPresentacionAPI.Controllers.FasecoldaController",
+    "Method": "Get",
+    "RelativePath": "api/Fasecolda/{placa}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "placa",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CapaNegocio.AccidenteResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.deps.json
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.dll
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.pdb
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.csproj.AssemblyReference.cache
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.AssemblyInfoInputs.cache
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.AssemblyInfo.cs
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDato.2F2D4AF1.Up2Date
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.dll
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\refint\CapaDatosMemoria.dll
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.pdb
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\ref\CapaDatosMemoria.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.deps.json
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.csproj.AssemblyReference.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.AssemblyInfoInputs.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.AssemblyInfo.cs
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.csproj.CoreCompileInputs.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDato.2F2D4AF1.Up2Date
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\refint\CapaDatosMemoria.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaDatosMemoria\obj\Debug\net8.0\ref\CapaDatosMemoria.dll

@@ -1,0 +1,38 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CapaPresentacionAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Validaciones": {
+      "get": {
+        "tags": [
+          "Validaciones"
+        ],
+        "parameters": [
+          {
+            "name": "placa",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "ccCliente",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

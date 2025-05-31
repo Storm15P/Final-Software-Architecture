@@ -1,0 +1,30 @@
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\CapaDatosProductos.deps.json
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\CapaDatosProductos.dll
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\CapaDatosProductos.pdb
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.csproj.AssemblyReference.cache
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.AssemblyInfoInputs.cache
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.AssemblyInfo.cs
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDato.11593C7D.Up2Date
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.dll
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\refint\CapaDatosProductos.dll
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.pdb
+C:\Users\nesto\source\repos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\ref\CapaDatosProductos.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.csproj.AssemblyReference.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.AssemblyInfoInputs.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.AssemblyInfo.cs
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.csproj.CoreCompileInputs.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\refint\CapaDatosProductos.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDatosProductos.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\CapaDatosProductos.deps.json
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\CapaDatosProductos.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\CapaDatosProductos.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\CapaDato.11593C7D.Up2Date
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosProductos\obj\Debug\net8.0\ref\CapaDatosProductos.dll

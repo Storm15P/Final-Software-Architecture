@@ -1,0 +1,16 @@
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.deps.json
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\bin\Debug\net8.0\CapaDatosMemoria.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.csproj.AssemblyReference.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.AssemblyInfoInputs.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.AssemblyInfo.cs
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.csproj.CoreCompileInputs.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.sourcelink.json
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDato.2F2D4AF1.Up2Date
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\refint\CapaDatosMemoria.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\CapaDatosMemoria.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioTransferencias\CapaDatosMemoria\obj\Debug\net8.0\ref\CapaDatosMemoria.dll

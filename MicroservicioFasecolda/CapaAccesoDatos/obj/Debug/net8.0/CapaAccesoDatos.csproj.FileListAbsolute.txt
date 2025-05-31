@@ -1,0 +1,30 @@
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\nesto\source\repos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\sacev\Downloads\Microservicios Completos\MicroservicioProductos\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll

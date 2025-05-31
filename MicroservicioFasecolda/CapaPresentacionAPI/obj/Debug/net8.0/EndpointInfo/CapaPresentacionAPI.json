@@ -1,0 +1,70 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CapaPresentacionAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Fasecolda/{placa}": {
+      "get": {
+        "tags": [
+          "Fasecolda"
+        ],
+        "parameters": [
+          {
+            "name": "placa",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/AccidenteResponseDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AccidenteResponseDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AccidenteResponseDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AccidenteResponseDTO": {
+        "type": "object",
+        "properties": {
+          "soloLatas": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "heridos": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "muertos": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

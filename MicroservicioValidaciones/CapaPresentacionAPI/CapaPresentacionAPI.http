@@ -1,0 +1,6 @@
+@CapaPresentacionAPI_HostAddress = http://localhost:5164
+
+GET {{CapaPresentacionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

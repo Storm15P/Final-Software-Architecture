@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "CapaPresentacionAPI.Controllers.ValidacionesController",
+    "Method": "Get",
+    "RelativePath": "api/Validaciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "placa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ccCliente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
